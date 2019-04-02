@@ -20,15 +20,15 @@ output:
 
 ## Author
 
-<your name> (<user email>)
+Kim Murray (kmurray@mmc.org)
 
 ## Contents
 
-This is the github repository for our paper titled <PAPER TITLE>. Please make use of our work, and if you do, please cite as follows:
+This is the github repository for our paper titled <title>. Please make use of our work, and if you do, please cite as follows:
 
->  <LAST NAME>, <FIRST NAME>. "<PAPER TITLE>". *<JOURNAL TITLE>* <VOLUME>, no. <NUMBER> (<YEAR>): <PAGES>. doi: https://dx.doi.org/xxxxxx.
+>  Murray, Kim. "<PAPER TITLE>". *<JOURNAL TITLE>* <VOLUME>, no. <NUMBER> (<YEAR>): <PAGES>. doi: https://dx.doi.org/xxxxxx.
 
-## Requirements
+## Requirements 
 Some specific software (in addition to R, devtools, and some more common R packages) will help to recreate the results for this paper from scratch. The easiest thing would be to clone this package or to install via `devtools`. If you don't want to do that, you can instead install the following:
 
 **To download raw data:**
